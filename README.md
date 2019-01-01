@@ -1,2 +1,2 @@
 # yoga-master
-(http://html.xpeedstudio.com/agmycoo/index.html)
+http://html.xpeedstudio.com/agmycoo/index.html
